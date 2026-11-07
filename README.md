@@ -1,4 +1,4 @@
-# gametunetweaker.github.io
+gametunetweaker
 
 🎮 GAMETUNE TWEAKER
 
