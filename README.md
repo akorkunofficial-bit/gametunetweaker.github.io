@@ -150,6 +150,8 @@ Telegram: https://t.me/gametunetweaker
 
 ВКонтакте (ВК): https://vk.ru/gametunetweaker
 
+Эл. почта: akorkunoff47@yandex.ru
+
 ----------------------------------------------------------------
 
 ❤️ Поддержать разработчика
