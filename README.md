@@ -1,5 +1,9 @@
 gametunetweaker
 
+
+<img width="1106" height="753" alt="{BE37A307-311B-473A-806D-2E5EDA45B90A}" src="https://github.com/user-attachments/assets/0b48783a-1b63-4edf-81e7-6dd698f62293" />
+
+
 🎮 GAMETUNE TWEAKER
 
 Бесплатная оптимизация Windows 11 для повышения комфорта работы и игрового процесса.
