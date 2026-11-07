@@ -11,7 +11,11 @@ GameTune Tweaker — бесплатная программа для настро
 
 📥 Скачать программу
 
-СКАЧАТЬ GAMETUNE TWEAKER — БЕСПЛАТНО: https://cloudbeeline.ru/links/fs/sybgep5eRHGKxd-rhDkrSg
+GameTune Tweaker — уже доступен:
+https://cloudbeeline.ru/links/fs/TphdCvU7S7--OLZSCQoAlg
+
+❤️ Поддержать автора:
+https://boosty.to/gametune/donate
 
 
 Бесплатное использование.
