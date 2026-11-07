@@ -173,3 +173,127 @@ GameTune Tweaker — независимый проект, созданный д�
 Спасибо всем, кто скачивает, использует, тестирует и помогает развивать GameTune Tweaker!
 
 GAMETUNE TWEAKER — бесплатно для всех и навсегда. 
+
+
+----------------------------------------------------------------
+English version
+----------------------------------------------------------------
+
+🎮 GAMETUNE TWEAKER
+
+Free optimization of Windows 11 to improve the comfort of work and gameplay. 
+
+GameTune Tweaker is a free program for configuring and optimizing Windows 11. It combines useful system settings in one convenient interface, allowing the user to independently manage the operating system parameters.
+
+No mandatory subscriptions, paid features, or usage time limits.
+
+----------------------------------------------------------------
+
+📥 Download the program
+
+GameTune Tweaker — already available:
+https://cloudbeeline.ru/links/fs/TphdCvU7S7--OLZSCQoAlg
+
+❤️ Support the author:
+https://boosty.to/gametune/donate
+
+----------------------------------------------------------------
+
+👨‍💻 ADVANTAGES
+
+Free to use.
+
+One portable EXE file.
+
+No classic installation required.
+
+Ability to undo changes made.
+
+----------------------------------------------------------------
+
+⚙️ Program features
+
+GameTune Tweaker provides tools for configuring Windows 11:
+
+Optimizing system parameters.
+
+Configuring Windows for gaming use.
+
+Managing additional system features.
+
+Disabling and modifying individual Windows settings.
+
+A convenient interface for managing settings.
+
+The ability to roll back changes made.
+
+The list of features will be expanded in subsequent versions.
+
+----------------------------------------------------------------
+
+🖥️ System requirements
+
+Operating system: Windows 11.
+
+Format: portable EXE file.
+
+Internet connection: not required. 
+
+----------------------------------------------------------------
+
+🚀 How to use
+
+Download the latest version of GameTune Tweaker.
+
+Run the EXE file.
+
+Select the settings you’re interested in.
+
+Apply the changes.
+
+If necessary, use the rollback function.
+
+Recommendation: before changing system parameters, create a Windows restore point.
+
+----------------------------------------------------------------
+
+🔄 Updates
+
+New versions of the program will be published in the Releases section.
+
+----------------------------------------------------------------
+
+🛡️ Security
+
+GameTune Tweaker is designed to configure the Windows 11 operating system.
+
+ The user independently decides which changes to apply.
+
+ Before use, it is recommended to familiarize yourself with the description of the available settings and the possible consequences of applying them.
+
+----------------------------------------------------------------
+
+💬 Feedback
+
+Found an error, want to suggest a new feature, or share an idea?
+
+I will be glad to receive your suggestions and feedback.
+
+Telegram: https://t.me/gametunetweaker
+
+VKontakte (VK): https://vk.ru/gametunetweaker
+
+Email: akorkunoff47@yandex.ru
+
+----------------------------------------------------------------
+
+❤️ Support the developer
+
+Game Tune Tweaker is distributed completely free of charge.
+
+If you find the program useful and want to support the further development of the project, you can make a voluntary donation.
+
+Support the developer: https://boosty.to/gametune/donate
+
+Support is not mandatory and does not affect the available options.
+
